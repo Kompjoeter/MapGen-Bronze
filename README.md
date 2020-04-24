@@ -1,3 +1,8 @@
+**THIS PROJECT IS OUTDATED. IVE MADE AN IMPROVED VERSION OF THIS (LINK BELOW) I WONT BE UPDATING THIS VERSION ANYMORE BUT WANT TO KEEP IT ONLINE FOR COMPARISON.**
+
+**Updated Version:**
+https://github.com/RanDByyp/MapGen-Gold
+
 # MapGen-Bronze
 A 2D Map Generator made in C# as Console Application
 
